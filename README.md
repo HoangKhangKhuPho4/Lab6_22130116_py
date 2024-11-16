@@ -14,8 +14,8 @@
 1. **Clone Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/employee-management.git
-   cd employee-management
+   git clone https://github.com/HoangKhangKhuPho4/Lab6_22130116_py
+   cd Lab6_22130116_py
 
 ## 2.Tạo Môi Trường Ảo:
 
