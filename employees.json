@@ -1,0 +1,14 @@
+[
+    {
+        "emp_id": "22130116",
+        "name": "Nguy\u1ec5n L\u00ea Ho\u00e0ng Khang",
+        "birthday": "28/07/2004",
+        "salary_rate": 3.0
+    },
+    {
+        "emp_id": "22130163",
+        "name": "Ho\u00e0ng l\u00ea nguy\u00ean m\u1ea1nh",
+        "birthday": "28/07/2004",
+        "salary_rate": 5.0
+    }
+]
